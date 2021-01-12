@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">apiDemo</string>
+    <string name="post_id">Post Id :</string>
+    <string name="postid">PostId</string>
+    <string name="id">Id :</string>
+    <string name="id2">Id :</string>
+    <string name="name">Name :</string>
+    <string name="name2">Name</string>
+    <string name="email">Email :</string>
+    <string name="email2">Email</string>
+    <string name="body">Body :</string>
+    <string name="body2">Body</string>
+</resources>
